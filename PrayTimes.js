@@ -82,6 +82,9 @@ function PrayTimes(method) {
 
 	// Calculation Methods
 	methods = {
+		Morocco: {
+			name: 'Moroccan Habous',
+			params: { fajr: 19, isha: 18, maghrib : 1.5 } },
 		MWL: {
 			name: 'Muslim World League',
 			params: { fajr: 18, isha: 17 } },

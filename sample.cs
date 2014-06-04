@@ -27,5 +27,7 @@ class Program
         {
             Console . WriteLine ( s [ i ] );
         }
+        
+        Console.ReadLine();
     }
 }
